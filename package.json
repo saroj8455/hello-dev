@@ -1,0 +1,23 @@
+{
+  "name": "hello-dev",
+  "version": "1.0.0",
+  "description": "simple hello world package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saroj8455/hello-dev.git"
+  },
+  "keywords": [
+    "hello",
+    "dev"
+  ],
+  "author": "saroj8455",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saroj8455/hello-dev/issues"
+  },
+  "homepage": "https://github.com/saroj8455/hello-dev#readme"
+}
