@@ -6,4 +6,7 @@ function greet() {
   return 'HI, 😊';
 }
 
-module.exports = hello__dev;
+module.exports = {
+  hello: hello__dev,
+  greeting: greet,
+};
