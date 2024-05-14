@@ -1,10 +1,3 @@
-import * as common from './common/common.helper.js';
-function hello__dev() {
-  return 'Hi, Developer World 😎';
-}
+import { message } from './common/common.helper.js';
 
-function greet() {
-  return 'HI, 😊' + common.message;
-}
-
-export { hello__dev as hello, greet as greet };
+export { message };
