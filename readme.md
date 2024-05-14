@@ -1,5 +1,5 @@
 # Hello world package
 
-<s>This is a simple hello world program </s>
+A simple string return hello world.
 
 ## Installation
