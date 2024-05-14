@@ -1,5 +1,6 @@
 {
   "name": "hello-dev",
+  "type": "module",
   "version": "1.0.1",
   "description": "simple hello world package",
   "main": "index.js",

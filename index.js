@@ -1,12 +1,10 @@
+import * as common from './common/common.helper.js';
 function hello__dev() {
   return 'Hi, Developer World 😎';
 }
 
 function greet() {
-  return 'HI, 😊';
+  return 'HI, 😊' + common.message;
 }
 
-module.exports = {
-  hello: hello__dev,
-  greeting: greet,
-};
+export { hello__dev as hello, greet as greet };
