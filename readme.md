@@ -12,3 +12,13 @@ A simple string return hello world.
 
 `import {module} from "./path/filename.extension"` <br>
 `import { message } from './common/common.helper.js';`
+
+### Configure User Snippets
+
+`https://code.visualstudio.com/docs/editor/userdefinedsnippets`
+
+### Domain name server for themarketinglab.in
+
+`ns1.dns-parking.com
+
+ns2.dns-parking.com`
